@@ -1,0 +1,13 @@
+labeled_surgical_videos/video/*
+labeled_surgical_videos/raw_audio/*
+Surgical_videos_example/videos/*
+Surgical_videos_example/frames/*
+Surgical_videos_example/frames_per_sec/*
+Surgical_videos_example/processed_audio/*
+Surgical_videos_example/raw_audio/*
+Surgical_videos_example/transcript2/*
+UniVTG/results/omni/model_best.ckpt
+10videos.zip
+output.log
+Surgical_videos_example.zip
+.git
