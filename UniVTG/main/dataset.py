@@ -485,7 +485,7 @@ class DatasetMR(Dataset):
         model_inputs["query_feat"] = self._get_query_feat_by_qid(meta["qid"])  # (Dq, ) or (Lq, Dq)
 
         if self.use_video:
-            model_inputs["video_feat"] = self._get_video_feat_by_vid(meta["vid"])  # (Lv, Dv)
+            model_inputs["video_feat"] = self._get_video_feat_by_vid(meta["qid"])  # (Lv, Dv)
             ctx_l = len(model_inputs["video_feat"])
         else:
             ctx_l = self.max_v_l
@@ -651,7 +651,7 @@ class DatasetMR(Dataset):
 
         q_feat_path = join(self.q_feat_dir, f"{qid}.npz")
         try: 
-            q_feat = np.load(q_feat_path)[self.q_feat_type].astype(np.float32)
+            q_feat = np.load(q_feat_path)['features'].astype(np.float32)
         except:
             q_feat = np.zeros((10, self.q_feat_dim)).astype(np.float32)
             logger.info(f"Something wrong when loading the query feature {q_feat_path}.")

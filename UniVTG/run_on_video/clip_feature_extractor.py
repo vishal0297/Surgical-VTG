@@ -1,29 +1,44 @@
+# import pdb
+# import torch as th
+# import math
+# import numpy as np
+# import torch
+# from video_loader import VideoLoader
+# from torch.utils.data import DataLoader
+# import argparse
+# from preprocessing import Preprocessing
+# import torch.nn.functional as F
+# from tqdm import tqdm
+# import os
+# import sys
+# import clip
+# import argparse
 import pdb
 import torch as th
 import math
 import numpy as np
 import torch
-from video_loader import VideoLoader
+from run_on_video.video_loader import VideoLoader
 from torch.utils.data import DataLoader
 import argparse
-from preprocessing import Preprocessing
+from run_on_video.preprocessing import Preprocessing
 import torch.nn.functional as F
 from tqdm import tqdm
 import os
 import sys
-import clip
+import run_on_video.clip as clip
 import argparse
 
 #################################
 model_version = "ViT-B/32"
 output_feat_size = 512
-clip_len = 2
+clip_len = 1
 overwrite = True
 num_decoding_thread = 4
 half_precision = False
 
 @torch.no_grad()
-def extractor(vid_path, text, output_file):
+def extractor(vid_path, text, output_file,qid):
   dataset = VideoLoader(
       vid_path,
       framerate=1/clip_len,
@@ -47,7 +62,7 @@ def extractor(vid_path, text, output_file):
   text_feature = model.encode_text(encoded_texts)['last_hidden_state']
   valid_lengths = (encoded_texts != 0).sum(1).tolist()[0]
   text_feature = text_feature[0, :valid_lengths].cpu().numpy()
-  np.savez(os.path.join(output_file, 'txt.npz'), features=text_feature)
+  np.savez(os.path.join('/home/csgrad/vrajasek/surgical_videos_vlm/UniVTG/txt_clip', f'{qid}.npz'), features=text_feature)
 
   totatl_num_frames = 0
   with th.no_grad():
@@ -77,11 +92,11 @@ def extractor(vid_path, text, output_file):
                       vid_features = vid_features.astype('float16')
                   totatl_num_frames += vid_features.shape[0]
                   # safeguard output path before saving
-                  dirname = os.path.dirname(output_file)
-                  if not os.path.exists(dirname):
-                      print(f"Output directory {dirname} does not exists, creating...")
-                      os.makedirs(dirname)
-                  np.savez(os.path.join(output_file, 'vid.npz'), features=vid_features)
+                #   dirname = os.path.dirname(output_file)
+                #   if not os.path.exists(dirname):
+                #       print(f"Output directory {dirname} does not exists, creating...")
+                #       os.makedirs(dirname)
+                  np.savez(os.path.join("/home/csgrad/vrajasek/surgical_videos_vlm/UniVTG/vid_clip", f'{qid}.npz'), features=vid_features)
           else:
               print(f'{input_file}, failed at ffprobe.\n')
 
@@ -91,7 +106,7 @@ if __name__ == "__main__":
   parser = argparse.ArgumentParser(description='')
   parser.add_argument('--vid_path', type=str, default='/home/csgrad/vrajasek/surgical_videos_vlm/labeled_surgical_videos/video/1.mp4')
   parser.add_argument('--text', nargs='+', type=str, default='Division of falciform ligament')
-  parser.add_argument('--save_dir', type=str, default='./tmp')
+  parser.add_argument('--save_dir', type=str, default='../vid_clip')
   args = parser.parse_args()
 
   query = ' '.join(args.text)

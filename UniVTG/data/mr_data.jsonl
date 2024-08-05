@@ -1,0 +1,345 @@
+{
+    "videos": [
+      {
+        "video_id": 1,
+        "keysteps": [
+          {
+            "description": "Patient set-up and port placement",
+            "start_time": 3360,
+            "end_time": 4920
+          },
+          {
+            "description": "Situs inversus anatomy",
+            "start_time": 4920,
+            "end_time": 5880
+          },
+          {
+            "description": "Division of falciform ligament",
+            "start_time": 5880,
+            "end_time": 6840
+          },
+          {
+            "description": "Clamping of diaphragmatic crus",
+            "start_time": 6840,
+            "end_time": 7560
+          },
+          {
+            "description": "Review of anatomy",
+            "start_time": 7560,
+            "end_time": 8520
+          },
+          {
+            "description": "Division of gastrocolic ligament",
+            "start_time": 8520,
+            "end_time": 12000
+          },
+          {
+            "description": "Adhesiolysis",
+            "start_time": 12000,
+            "end_time": 14100
+          },
+          {
+            "description": "Division of short gastric vessels",
+            "start_time": 14100,
+            "end_time": 14760
+          },
+          {
+            "description": "Dissection of angle of His",
+            "start_time": 14760,
+            "end_time": 16020
+          },
+          {
+            "description": "Gastric transection",
+            "start_time": 16020,
+            "end_time": 21240
+          },
+          {
+            "description": "Final aspect of SG",
+            "start_time": 21240,
+            "end_time": 22020
+          }
+        ]
+      },
+      {
+        "video_id": 2,
+        "keysteps": [
+          {
+            "description": "Identification of anatomical landmarks",
+            "start_time": 5520,
+            "end_time": 6840
+          },
+          {
+            "description": "Incision of peritoneum and dissection of preperitoneal space",
+            "start_time": 6840,
+            "end_time": 12060
+          },
+          {
+            "description": "Dissection of direct hernia defect and pseudo-sac",
+            "start_time": 12060,
+            "end_time": 12900
+          },
+          {
+            "description": "Parietalization of cord structures and dissection of peritoneal flap",
+            "start_time": 12900,
+            "end_time": 14460
+          },
+          {
+            "description": "Exploration of deep inguinal canal",
+            "start_time": 14460,
+            "end_time": 15600
+          },
+          {
+            "description": "Division of mesh superior lateral corner",
+            "start_time": 15600,
+            "end_time": 16740
+          },
+          {
+            "description": "Mesh positioning",
+            "start_time": 16740,
+            "end_time": 21540
+          },
+          {
+            "description": "Closure of peritoneum",
+            "start_time": 21540,
+            "end_time": 25260
+          }
+        ]
+      },
+      {
+        "video_id": 3,
+        "keysteps": [
+          {
+            "description": "Exploration and freeing of adhesions",
+            "start_time": 3060,
+            "end_time": 15060
+          },
+          {
+            "description": "Immediate postoperative outcome",
+            "start_time": 15060,
+            "end_time": 15600
+          },
+          {
+            "description": "Reintervention",
+            "start_time": 15600,
+            "end_time": 19200
+          }
+        ]
+      },
+      {
+        "video_id": 4,
+        "keysteps": [
+          {
+            "description": "Exploration",
+            "start_time": 6600,
+            "end_time": 7440
+          },
+          {
+            "description": "Duodenum dissection and identification of perforation",
+            "start_time": 7440,
+            "end_time": 12600
+          },
+          {
+            "description": "Suturing",
+            "start_time": 12600,
+            "end_time": 22320
+          },
+          {
+            "description": "Air leak test",
+            "start_time": 22320,
+            "end_time": 26100
+          },
+          {
+            "description": "Construction of omental patch",
+            "start_time": 26100,
+            "end_time": 30720
+          },
+          {
+            "description": "Peritoneal lavage",
+            "start_time": 30720,
+            "end_time": 30960
+          }
+        ]
+      },
+      {
+        "video_id": 5,
+        "keysteps": [
+          {
+            "description": "Operative technique",
+            "start_time": 5940,
+            "end_time": 24720
+          }
+        ]
+      },
+      {
+        "video_id": 6,
+        "keysteps": [
+          {
+            "description": "Adhesiolysis",
+            "start_time": 5460,
+            "end_time": 7560
+          },
+          {
+            "description": "Freeing of the cystic stump",
+            "start_time": 7560,
+            "end_time": 12840
+          },
+          {
+            "description": "Cystic duct opening and gallstone extraction",
+            "start_time": 12840,
+            "end_time": 14160
+          },
+          {
+            "description": "Fogarty balloon catheter in the common bile duct",
+            "start_time": 14160,
+            "end_time": 15000
+          },
+          {
+            "description": "Division and closure of the cystic stump",
+            "start_time": 15000,
+            "end_time": 15840
+          }
+        ]
+      },
+      {
+        "video_id": 7,
+        "keysteps": [
+          {
+            "description": "Pringle maneuver",
+            "start_time": 7140,
+            "end_time": 9360
+          },
+          {
+            "description": "Pringle maneuver",
+            "start_time": 9360,
+            "end_time": 11040
+          },
+          {
+            "description": "Parenchymal transection",
+            "start_time": 11040,
+            "end_time": 17460
+          },
+          {
+            "description": "Specimen extraction and hemostasis",
+            "start_time": 17460,
+            "end_time": 19680
+          }
+        ]
+      },
+      {
+        "video_id": 8,
+        "keysteps": [
+          {
+            "description": "Hiatal dissection",
+            "start_time": 4680,
+            "end_time": 8160
+          },
+          {
+            "description": "Dissection of the diverticulum",
+            "start_time": 8160,
+            "end_time": 16200
+          },
+          {
+            "description": "Diverticulectomy",
+            "start_time": 16200,
+            "end_time": 21300
+          },
+          {
+            "description": "Heller myotomy with Toupet fundoplication",
+            "start_time": 21300,
+            "end_time": 26940
+          },
+          {
+            "description": "Intraoperative endoscopy",
+            "start_time": 26940,
+            "end_time": 28140
+          }
+        ]
+      },
+      {
+        "video_id": 9,
+        "keysteps": [
+          {
+            "description": "Exploration",
+            "start_time": 3840,
+            "end_time": 5280
+          },
+          {
+            "description": "Parenchymal transection",
+            "start_time": 5280,
+            "end_time": 9780
+          },
+          {
+            "description": "Division of Glissonean pedicle",
+            "start_time": 9780,
+            "end_time": 17280
+          },
+          {
+            "description": "Division of Glissonean pedicle",
+            "start_time": 17280,
+            "end_time": 24000
+          },
+          {
+            "description": "Specimen extraction and hemostasis",
+            "start_time": 24000,
+            "end_time": 25020
+          }
+        ]
+      },
+      {
+        "video_id": 10,
+        "keysteps": [
+          {
+            "description": "Visualization of defects",
+            "start_time": 4260,
+            "end_time": 4500
+          },
+          {
+            "description": "Division of the posterior sheath",
+            "start_time": 4500,
+            "end_time": 7020
+          },
+          {
+            "description": "Crossover",
+            "start_time": 7020,
+            "end_time": 8400
+          },
+          {
+            "description": "Medial border incision of posterior rectus sheath",
+            "start_time": 8400,
+            "end_time": 12000
+          },
+          {
+            "description": "Dissection of hernia sac",
+            "start_time": 12000,
+            "end_time": 14820
+          },
+          {
+            "description": "Right transversus abdominis muscle release",
+            "start_time": 14820,
+            "end_time": 22260
+          },
+          {
+            "description": "Groin hernia visualization",
+            "start_time": 22260,
+            "end_time": 24540
+          },
+          {
+            "description": "Closure of defects",
+            "start_time": 24540,
+            "end_time": 28440
+          },
+          {
+            "description": "Mesh placement",
+            "start_time": 28440,
+            "end_time": 30840
+          },
+          {
+            "description": "Posterior layer closure",
+            "start_time": 30840,
+            "end_time": 33060
+          }
+        ]
+      }
+    ]
+  }
+  

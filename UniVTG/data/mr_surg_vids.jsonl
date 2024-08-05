@@ -1,0 +1,58 @@
+{"query": "Patient set-up and port placement", "qid": "01036b44-6eec-4399-ba45-674cdf925ea1", "vid": 1, "relevant_windows": [[56.0, 82.0]], "duration": 391}
+{"query": "Situs inversus anatomy", "qid": "21394e29-67d5-49d4-b238-2e5c078430a2", "vid": 1, "relevant_windows": [[82.0, 98.0]], "duration": 391}
+{"query": "Division of falciform ligament", "qid": "aaa40472-1add-4a6b-844f-4917dc517916", "vid": 1, "relevant_windows": [[98.0, 114.0]], "duration": 391}
+{"query": "Clamping of diaphragmatic crus", "qid": "a638ab4e-81f8-486b-b804-7eb1ba8b1c68", "vid": 1, "relevant_windows": [[114.0, 126.0]], "duration": 391}
+{"query": "Review of anatomy", "qid": "294e69de-2d70-47cc-8f25-2c57b95c254a", "vid": 1, "relevant_windows": [[126.0, 142.0]], "duration": 391}
+{"query": "Division of gastrocolic ligament", "qid": "42123679-41e5-425b-9f97-f7119431a2ef", "vid": 1, "relevant_windows": [[142.0, 200.0]], "duration": 391}
+{"query": "Adhesiolysis", "qid": "960d8998-684e-47c0-9c5c-8de86ed45609", "vid": 1, "relevant_windows": [[200.0, 235.0]], "duration": 391}
+{"query": "Division of short gastric vessels", "qid": "65f418d1-21cf-42db-a319-de40c7b568c6", "vid": 1, "relevant_windows": [[235.0, 246.0]], "duration": 391}
+{"query": "Dissection of angle of His", "qid": "9850aa24-c8e7-46e0-9954-9d50b3f97ff0", "vid": 1, "relevant_windows": [[246.0, 267.0]], "duration": 391}
+{"query": "Gastric transection", "qid": "531285ca-e818-423a-a2c9-ce27a3a7381d", "vid": 1, "relevant_windows": [[267.0, 354.0]], "duration": 391}
+{"query": "Final aspect of SG", "qid": "87645fd9-bb36-4e2f-a251-a871aa06a9e8", "vid": 1, "relevant_windows": [[354.0, 367.0]], "duration": 391}
+{"query": "Identification of anatomical landmarks", "qid": "fd988d76-504d-4ee1-b11c-b8b32213a45e", "vid": 2, "relevant_windows": [[92.0, 114.0]], "duration": 877}
+{"query": "Incision of peritoneum and dissection of preperitoneal space", "qid": "62e938dc-8925-4359-9245-81eeba15c83d", "vid": 2, "relevant_windows": [[114.0, 201.0]], "duration": 877}
+{"query": "Dissection of direct hernia defect and pseudo-sac", "qid": "9d64760f-ced5-44e6-8f76-e73d6c8dfdd8", "vid": 2, "relevant_windows": [[201.0, 215.0]], "duration": 877}
+{"query": "Parietalization of cord structures and dissection of peritoneal flap", "qid": "d8057b57-db4c-4123-a94f-f3370cf88aab", "vid": 2, "relevant_windows": [[215.0, 241.0]], "duration": 877}
+{"query": "Exploration of deep inguinal canal", "qid": "2070d43a-2dd4-4cf9-a211-6f6fbbef504c", "vid": 2, "relevant_windows": [[241.0, 260.0]], "duration": 877}
+{"query": "Division of mesh superior lateral corner", "qid": "e2af3483-1338-4722-8848-f546fd417765", "vid": 2, "relevant_windows": [[260.0, 279.0]], "duration": 877}
+{"query": "Mesh positioning", "qid": "efb4adb6-8c55-44ef-b6ec-0403aed985a5", "vid": 2, "relevant_windows": [[279.0, 359.0]], "duration": 877}
+{"query": "Closure of peritoneum", "qid": "5774a205-f04d-4482-a30b-af038e33a16a", "vid": 2, "relevant_windows": [[359.0, 421.0]], "duration": 877}
+{"query": "Exploration and freeing of adhesions", "qid": "a5f9ffe8-9d15-42cc-aac0-1dacc0e1d334", "vid": 3, "relevant_windows": [[51.0, 251.0]], "duration": 338}
+{"query": "Immediate postoperative outcome", "qid": "ab0acf89-a60f-4a2e-a374-2093dfd13231", "vid": 3, "relevant_windows": [[251.0, 260.0]], "duration": 338}
+{"query": "Reintervention", "qid": "1ed9a941-7629-4759-835a-af56263a6ab6", "vid": 3, "relevant_windows": [[260.0, 320.0]], "duration": 338}
+{"query": "Exploration", "qid": "e2c5b040-453d-4e25-9286-3d0d0c4e58eb", "vid": 4, "relevant_windows": [[110.0, 124.0]], "duration": 567}
+{"query": "Duodenum dissection and identification of perforation", "qid": "0b7eba4e-dd50-4a82-aa16-e1b8def1bf8f", "vid": 4, "relevant_windows": [[124.0, 210.0]], "duration": 567}
+{"query": "Suturing", "qid": "aca87885-4fb2-46a2-8029-f4eec43bc181", "vid": 4, "relevant_windows": [[210.0, 372.0]], "duration": 567}
+{"query": "Air leak test", "qid": "9131dfba-56ae-41a3-aabd-d2def2a801df", "vid": 4, "relevant_windows": [[372.0, 435.0]], "duration": 567}
+{"query": "Construction of omental patch", "qid": "1f016d9b-0534-4277-8e0d-dc8eb0812ab0", "vid": 4, "relevant_windows": [[435.0, 512.0]], "duration": 567}
+{"query": "Peritoneal lavage", "qid": "86abda9e-91be-4fed-b06d-ceaf5b3c3c7a", "vid": 4, "relevant_windows": [[512.0, 516.0]], "duration": 567}
+{"query": "Operative technique", "qid": "dbf624f5-2985-4d90-ac2a-297468b33f15", "vid": 5, "relevant_windows": [[99.0, 412.0]], "duration": 443}
+{"query": "Adhesiolysis", "qid": "f3ebef51-4b91-45d6-8f91-a453e5906c2c", "vid": 6, "relevant_windows": [[91.0, 126.0]], "duration": 281}
+{"query": "Freeing of the cystic stump", "qid": "77972891-28e9-48d5-9185-0784a11e7914", "vid": 6, "relevant_windows": [[126.0, 214.0]], "duration": 281}
+{"query": "Cystic duct opening and gallstone extraction", "qid": "4556188b-85a1-4369-b95e-51b9f606010f", "vid": 6, "relevant_windows": [[214.0, 236.0]], "duration": 281}
+{"query": "Fogarty balloon catheter in the common bile duct", "qid": "f162459b-bd61-4a3e-85e0-bd805f758f2f", "vid": 6, "relevant_windows": [[236.0, 250.0]], "duration": 281}
+{"query": "Division and closure of the cystic stump", "qid": "efa8cb7e-3090-4b41-811c-5188de02a832", "vid": 6, "relevant_windows": [[250.0, 264.0]], "duration": 281}
+{"query": "Pringle maneuver", "qid": "4b4d3fd7-dcf7-471c-9329-c7adb3beb756", "vid": 7, "relevant_windows": [[119.0, 156.0]], "duration": 352}
+{"query": "Pringle maneuver", "qid": "48e9706f-077c-4032-bc98-1277e1fd47f9", "vid": 7, "relevant_windows": [[156.0, 184.0]], "duration": 352}
+{"query": "Parenchymal transection", "qid": "de272a01-9cd0-4fa9-952c-53891e248038", "vid": 7, "relevant_windows": [[184.0, 291.0]], "duration": 352}
+{"query": "Specimen extraction and hemostasis", "qid": "0de0e3d1-c1da-42c0-a2a5-93d4f49444cb", "vid": 7, "relevant_windows": [[291.0, 328.0]], "duration": 352}
+{"query": "Hiatal dissection", "qid": "e37bf1d0-dc33-4d3a-bd60-247a79e7a439", "vid": 8, "relevant_windows": [[78.0, 136.0]], "duration": 485}
+{"query": "Dissection of the diverticulum", "qid": "6f6788b2-26f7-4fb1-848a-263ff8b698ff", "vid": 8, "relevant_windows": [[136.0, 270.0]], "duration": 485}
+{"query": "Diverticulectomy", "qid": "5859d594-8c96-40ad-85a9-2f4d56c41340", "vid": 8, "relevant_windows": [[270.0, 355.0]], "duration": 485}
+{"query": "Heller myotomy with Toupet fundoplication", "qid": "fdfc6c86-4ab9-406f-8e58-0ad2f7e21ba8", "vid": 8, "relevant_windows": [[355.0, 449.0]], "duration": 485}
+{"query": "Intraoperative endoscopy", "qid": "4a8e60d1-c9f1-4545-9f47-647f3840f8cd", "vid": 8, "relevant_windows": [[449.0, 469.0]], "duration": 485}
+{"query": "Exploration", "qid": "353682dd-f9ad-493d-be60-d718c9f886af", "vid": 9, "relevant_windows": [[64.0, 88.0]], "duration": 439}
+{"query": "Parenchymal transection", "qid": "1d735339-79de-47a8-92bf-7fe58c17b8f3", "vid": 9, "relevant_windows": [[88.0, 163.0]], "duration": 439}
+{"query": "Division of Glissonean pedicle", "qid": "9bd03332-1bbf-42c0-8186-0733506ac8c4", "vid": 9, "relevant_windows": [[163.0, 288.0]], "duration": 439}
+{"query": "Division of Glissonean pedicle", "qid": "23e77aed-f322-4010-9e5a-bc45d62654cb", "vid": 9, "relevant_windows": [[288.0, 400.0]], "duration": 439}
+{"query": "Specimen extraction and hemostasis", "qid": "fda8a5a5-8e0d-4077-8516-82a7e94479b7", "vid": 9, "relevant_windows": [[400.0, 417.0]], "duration": 439}
+{"query": "Visualization of defects", "qid": "fde6f725-40c4-42ed-aaf5-e6b9979446a9", "vid": 10, "relevant_windows": [[71.0, 75.0]], "duration": 583}
+{"query": "Division of the posterior sheath", "qid": "c60d008a-3f10-4037-8ab0-0114253f194a", "vid": 10, "relevant_windows": [[75.0, 117.0]], "duration": 583}
+{"query": "Crossover", "qid": "fa230dc3-879f-463b-99c7-9e76babc8371", "vid": 10, "relevant_windows": [[117.0, 140.0]], "duration": 583}
+{"query": "Medial border incision of posterior rectus sheath", "qid": "94ecc47f-2405-4d35-b4f1-14afee2466fa", "vid": 10, "relevant_windows": [[140.0, 200.0]], "duration": 583}
+{"query": "Dissection of hernia sac", "qid": "58486bf0-2748-42ee-9edf-66f1983a0abd", "vid": 10, "relevant_windows": [[200.0, 247.0]], "duration": 583}
+{"query": "Right transversus abdominis muscle release", "qid": "cfc59606-8cc3-43d2-a34f-78863f3eab86", "vid": 10, "relevant_windows": [[247.0, 371.0]], "duration": 583}
+{"query": "Groin hernia visualization", "qid": "d96bcacb-1508-4aff-b852-d3cb21eb5175", "vid": 10, "relevant_windows": [[371.0, 409.0]], "duration": 583}
+{"query": "Closure of defects", "qid": "4b1a8ed2-4907-4611-aaf4-cdab3171422f", "vid": 10, "relevant_windows": [[409.0, 474.0]], "duration": 583}
+{"query": "Mesh placement", "qid": "3b29c747-e5ea-413f-9438-d4d64cda32bd", "vid": 10, "relevant_windows": [[474.0, 514.0]], "duration": 583}
+{"query": "Posterior layer closure", "qid": "4fb30045-470d-4a4d-b2d3-bd3f1fe8a9dd", "vid": 10, "relevant_windows": [[514.0, 551.0]], "duration": 583}
